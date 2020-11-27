@@ -27,7 +27,7 @@
     height: 28px;
     border-radius: 3px;
     border: 1px solid #a40000;
-    background-image: url(../images/weixin.png);
+    background-image: url(https://jiaotou195.github.io/ppqg.github.io/weixin.png);
     background-position: center;
     background-size: 80%;
     background-repeat: no-repeat;
@@ -40,7 +40,7 @@
     height: 28px;
     border-radius: 3px;
     border: 1px solid #a40000;
-    background-image: url(../images/phone.png);
+    background-image: url(https://jiaotou195.github.io/ppqg.github.io/phone.png);
     background-position: center;
     background-size: 50%;
     background-repeat: no-repeat;
@@ -141,7 +141,7 @@
 
 .el-main .index_block1 .swiper-container .swiper-button-prev {
     background-size: 35%;
-    background-image: url(../images/index-arrow-left.png);
+    background-image: url(https://jiaotou195.github.io/ppqg.github.io/index-arrow-left.png);
     background-repeat: no-repeat;
     top: 95%;
     left: 10px;
@@ -200,7 +200,7 @@
     left: 0px;
     width: 8px;
     height: 8px;
-    background-image: url(../images/dis.png);
+    background-image: url(https://jiaotou195.github.io/ppqg.github.io/dis.png);
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -243,14 +243,14 @@
     display: inline-block;
     width: 14px;
     height: 14px;
-    background-image: url(../images/circle.png);
+    background-image: url(https://jiaotou195.github.io/ppqg.github.io/circle.png);
     background-position: center;
     background-size: 80%;
     background-repeat: no-repeat;
 }
 
 .el-main .index_block2 .el-left .el-form input[type=radio]:checked+label::before {
-    background-image: url(../images/circle-b.png);
+    background-image: url(https://jiaotou195.github.io/ppqg.github.io/circle-b.png);
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -456,7 +456,7 @@
     left: 0px;
     width: 8px;
     height: 8px;
-    background-image: url(../images/dis.png);
+    background-image: url(https://jiaotou195.github.io/ppqg.github.io/dis.png);
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -556,7 +556,7 @@
     left: 0px;
     width: 8px;
     height: 8px;
-    background-image: url(../images/dis.png);
+    background-image: url(https://jiaotou195.github.io/ppqg.github.io/dis.png);
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -621,7 +621,7 @@
     left: 20px;
     width: 30px;
     height: 30px;
-    background-image: url(../images/player.png);
+    background-image: url(https://jiaotou195.github.io/ppqg.github.io/player.png);
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -709,7 +709,7 @@
 
 .el-main .index_block9 .swiper-container .swiper-button-next {
     background-size: 100%;
-    background-image: url(../images/index2-arrow-left.png);
+    background-image: url(https://jiaotou195.github.io/ppqg.github.io/index2-arrow-left.png);
     background-repeat: no-repeat;
     outline: none;
     width: 42px;
@@ -845,7 +845,7 @@
     margin-top: -20px;
     width: 60px;
     height: 60px;
-    background-image: url(../images/player1.png);
+    background-image: url(https://jiaotou195.github.io/ppqg.github.io/player1.png);
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -853,7 +853,7 @@
 
 .search-bg {
     text-align: center;
-    background-image: url(../images/searchBd.jpg);
+    background-image: url(https://jiaotou195.github.io/ppqg.github.iosearchBd.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
@@ -906,14 +906,14 @@
     width: 30px;
     height: 30px;
     vertical-align: bottom;
-    background-image: url(../images/search-select.png);
+    background-image: url(https://jiaotou195.github.io/ppqg.github.io/search-select.png);
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
 }
 
 .search-bg .search-dailog>div input[type=radio]:checked+label::before {
-    background-image: url(../images/search-selected.png);
+    background-image: url(https://jiaotou195.github.io/ppqg.github.io/search-selected.png);
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -956,7 +956,7 @@
 }
 
 .find-bg {
-    background-image: url(../images/find-bg1.png);
+    background-image: url(https://jiaotou195.github.io/ppqg.github.io/find-bg1.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
@@ -1094,7 +1094,7 @@
     position: relative;
     top: 4px;
     cursor: pointer;
-    background-image: url(../images/more.png);
+    background-image: url(https://jiaotou195.github.io/ppqg.github.io/more.png);
     background-position: center right;
     background-repeat: no-repeat;
     background-size: 35%;
@@ -1179,7 +1179,7 @@
     margin-right: -630px;
     width: 145px;
     height: 275px;
-    background-image: url(../images/zmel.jpg);
+    background-image: url(https://jiaotou195.github.io/ppqg.github.io/zmel.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -1203,7 +1203,7 @@
     margin: auto;
     padding: 60px;
     box-sizing: border-box;
-    background-image: url(../images/dzzs-bg.png);
+    background-image: url(https://jiaotou195.github.io/ppqg.github.io/dzzs-bg.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
@@ -1271,7 +1271,7 @@
     content: "";
     width: 28px;
     height: 28px;
-    background-image: url(../images/dianzan.png);
+    background-image: url(https://jiaotou195.github.io/ppqg.github.io/dianzan.png);
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -1315,7 +1315,7 @@
     color: #e60012;
     width: 134px;
     margin-right: 50px;
-    background-image: url(../images/right.png);
+    background-image: url(https://jiaotou195.github.io/ppqg.github.io/right.png);
     background-position: right center;
     background-repeat: no-repeat;
 }
@@ -1448,7 +1448,7 @@
 }
 
 .el-main .ts-container .ts-from .ts-label .form-icon.icon-miaosu {
-    background-image: url(../images/miaosu.png);
+    background-image: url(https://jiaotou195.github.io/ppqg.github.io/miaosu.png);
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -1935,7 +1935,7 @@
 
 .el-main.body .pptj .swiper-box .swiper-button-prev {
     background-size: 100%;
-    background-image: url(../images/pptj-arrow-left.png);
+    background-image: url(https://jiaotou195.github.io/ppqg.github.io/pptj-arrow-left.png);
     background-repeat: no-repeat;
     outline: none;
     width: 28px;
@@ -1946,7 +1946,7 @@
 
 .el-main.body .pptj .swiper-box .swiper-button-next {
     background-size: 100%;
-    background-image: url(../images/pptj-arrow-right.png);
+    background-image: url(https://jiaotou195.github.io/ppqg.github.io/pptj-arrow-right.png);
     background-repeat: no-repeat;
     outline: none;
     width: 28px;
@@ -1986,7 +1986,7 @@
     left: 40%;
     width: 50px;
     height: 50px;
-    background-image: url(../images/player1.png);
+    background-image: url(https://jiaotou195.github.io/ppqg.github.io/player1.png);
     background-repeat: no-repeat;
     background-position: left center;
     background-size: 100%;
@@ -2136,7 +2136,7 @@
     left: 6px;
     width: 21px;
     height: 21px;
-    background-image: url(../images/qy-phone.png);
+    background-image: url(https://jiaotou195.github.io/ppqg.github.io/qy-phone.png);
     background-position: left center;
     background-repeat: no-repeat;
     background-size: 100%;
